@@ -8,7 +8,7 @@ import nlp_processor
 
 app = FastAPI()
 
-api_key = "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"
+api_key = ""
 
 def generate_html_table(data):
     """Generate HTML table from a list of tuples."""
