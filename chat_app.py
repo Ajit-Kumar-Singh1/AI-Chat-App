@@ -3,7 +3,7 @@ import llama_api
 import nlp_processor
 
 def main():
-    api_key = "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"
+    api_key = ""
     
     print("Welcome to the chat application! Type 'exit' or 'quit' to end the chat.")
     
